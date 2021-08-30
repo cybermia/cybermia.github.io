@@ -1,13 +1,8 @@
-# Header 1
-## Header 2
-### Header 3
+# Get In Touch!
 
-- Bulleted
-- List
+### We are looking forward to start a project with you!
 
-1. Numbered
-2. List
+Contact us with any questions or inquiries. We would be happy to answer your questions and set up a meeting with you. Cybermia can help to take your business to the next level.
 
-**Bold** and _Italic_ and `Code` text
 
-[Cyber MIA](https://cybermia.com/) and ![Image](https://cybermia.com/wp-content/uploads/2020/09/Cybermia-240x84-1.png)
+[Cyber MIA](https://cybermia.com/)
